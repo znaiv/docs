@@ -13,7 +13,7 @@
 
 ```
 command here
-example adb sideload crdroid.zip
+example adb sideload alpha.zip
 ```
 * Step 4
 * Step ...
@@ -26,7 +26,7 @@ example adb sideload crdroid.zip
 
 ```
 command here
-example adb sideload crdroid.zip
+example adb sideload alpha.zip
 ```
 * Step 4
 * Step ...
