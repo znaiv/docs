@@ -18,11 +18,12 @@
 
 # <a id="title2">Prepare everything before installation:</a>
 
-1. Download Recovery from download page
-2. Download Firmware for your device
+1. Download supported Recovery
+   - SHRP: [Download](https://sourceforge.net/projects/shawkteam/files/ginkgo/addons/shrp_recovery.img/download)
+3. Download Firmware for your device
     - ginkgo: [Download](https://sourceforge.net/projects/shawkteam/files/ginkgo/addons/fw_ginkgo_miui_GINKGOGlobal_V12_5_2_0_RCOMIXM_75abe1782e_11_0.zip/download)
     - willow: [Download](https://sourceforge.net/projects/shawkteam/files/ginkgo/addons/fw_willow_miui_WILLOWGlobal_V12.5.6.0.RCXMIXM_b9c4b22e3f.zip/download)
-3. This ROM Uses Dynamic Partitioning system, so you should use Dynamic Partition Converter
+4. This ROM Uses Dynamic Partitioning system, so you should use Dynamic Partition Converter
     - Dynamic Partition Converter: [Download](https://sourceforge.net/projects/kycii91-j4plus/files/Ginkgo/Ginkgo_Retrofit_Dynamic_Partitions_Converter.zip/download)
 
 --- 
